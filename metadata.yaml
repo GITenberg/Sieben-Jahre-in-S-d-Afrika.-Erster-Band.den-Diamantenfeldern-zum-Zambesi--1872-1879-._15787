@@ -1,0 +1,38 @@
+_repo: Sieben-Jahre-in-S-d-Afrika.-Erster-Band.den-Diamantenfeldern-zum-Zambesi--1872-1879-._15787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15787-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holub, Emil
+    aliases:
+    - Holub, Emilio
+    - Holub, Emile
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '6290'
+    url: http://www.gutenberg.org/2009/agents/6290
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Emil_Holub
+    - http://de.wikipedia.org/wiki/Emil_Holub
+description: ''
+gutenberg_bookshelf:
+- South Africa
+- German Language Books
+- DE Sachbuch
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15787'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Description and travel'
+- !lcsh 'Hunting -- South Africa'
+- !lcc 'DT'
+title: "Sieben Jahre in Süd-Afrika. Erster Band.\r\nErlebnisse, Forschungen und Jagden\
+  \ auf meinen Reisen von den Diamantenfeldern zum Zambesi (1872-1879)."
+url: http://www.gutenberg.org/ebooks/15787
